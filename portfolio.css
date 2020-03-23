@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 
-.img-fluid{
+.fotinha{
     padding-top: 10vh;
 }
 
@@ -27,19 +27,19 @@ html{
 .sobre_mim h1{
     font-size: 7vh;
     text-align: center;
-    padding-top: 20vh; 
+    padding-top: 15vh; 
 }
 
 .projetos h1{
     font-size: 7vh;
     text-align: center;
-    padding-top: 20vh;
+    padding-top: 10vh;
 }
 
 .contatos h1{
     font-size: 7vh;
     text-align: center;
-    padding-top: 20vh;
+    padding-top: 15vh;
 }
 
 .rodape{
