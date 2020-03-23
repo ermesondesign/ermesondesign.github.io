@@ -3,7 +3,7 @@ html{
 }
 
 .img-fluid{
-    
+    padding-top: 10vh;
 }
 
 .navbar-brand{
@@ -44,6 +44,10 @@ html{
 
 .rodape{
     padding-top: 20vh;
+}
+
+i{
+    font-size: 3vh;
 }
 
 .page-footer{
